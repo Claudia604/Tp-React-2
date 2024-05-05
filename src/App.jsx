@@ -6,7 +6,7 @@ function App() {
   return (
     <main className="container">
       <h1 className="text-center my-5">EJERCICIO 2</h1>
-      <Ejercicio valor="my friend!" />
+      <Ejercicio />
     </main>
   );
 }
